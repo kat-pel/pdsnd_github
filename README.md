@@ -14,7 +14,7 @@ The project is about exploring the U.S bicycle-sharing system data by using Pyth
 
 Bicycle-sharing companies allow people to rent out bikes for a short term for a price. The bike can be rented through an phone application and then the customer can pick up the bike and return it either to the same location or a different one. There are several locations to pick-up and drop-off the bike.
 
-The bikeshare data consits of randomly selected data fo the first six months of 2017. The following information is provided for all three cities: 
+The bikeshare data consits of randomly selected data of the first six months of 2017. The following information is provided for all three cities: 
 
    - start time 
    - end time
