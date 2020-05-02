@@ -38,7 +38,7 @@ The bikeshare.py file is set up as a script and it will take the raw input to cr
    - count of gender (only for Chicago and NYC) and user types
    - displaying earliest, most recent, and most common year of birth (only for Chicago and NYC)
 
-The code is handling also unexpected user input without failing. A message about the incorrect input is shown to the user in the terminal, asking the user to try again. It is also possible for the user to see the raw data five rows at a time. In the end the user is asked if they want to start again or exit.
+The code is handling also unexpected user input without failing. A message about the incorrect input is shown to the user in the terminal, asking the user to try again. It is also possible for the user to see the raw data five rows at a time if they wish to do so. In the end the user is asked if they want to start again or exit.
 
 In this project the following packages were used: 
    - time
